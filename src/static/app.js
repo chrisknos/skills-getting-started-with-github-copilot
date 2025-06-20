@@ -1,3 +1,5 @@
+// This file handles participant signups and displays participant information.
+
 document.addEventListener("DOMContentLoaded", () => {
   const activitiesList = document.getElementById("activities-list");
   const activitySelect = document.getElementById("activity");
